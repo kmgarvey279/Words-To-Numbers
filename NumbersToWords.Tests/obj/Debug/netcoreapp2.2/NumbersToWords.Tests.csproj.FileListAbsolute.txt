@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.deps.json
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.runtimeconfig.json
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.pdb
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.pdb
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.dll
+/Users/Guest/Desktop/numbers-to-words/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.pdb
