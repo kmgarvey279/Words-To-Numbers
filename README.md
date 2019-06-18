@@ -1,6 +1,6 @@
 # _Words To Numbers_
 
-#### _A program that takes a number as input and returns the corresponding word. 04.02.2019_
+#### _A program that takes a number as input and returns the corresponding word. 04.25.2019_
 
 #### By _**Kevin Garvey**_
 
@@ -8,7 +8,7 @@
 
 - _Clone from the following repository https://github.com/kmgarvey279/Count-up._
 - The program does not currently have a user interface, so it can only be tested using .Net.
-- To test the program, simply navigate to the Words-ToNumbers.Tests directory and run dotnet test in the command line. 
+- To test the program, simply navigate to the Words-To-Numbers.Tests directory and run dotnet test in the command line. 
 
 ## Specs
 
